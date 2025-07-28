@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.20d51e13.css",
-    "main.js": "/static/js/main.06f7a428.js",
+    "main.js": "/static/js/main.eaa0d2ec.js",
     "static/media/todd-diemer-zglUlG8k47I-unsplash.jpg": "/static/media/todd-diemer-zglUlG8k47I-unsplash.81937bffe2ddf47887f5.jpg",
     "static/media/MainLandingPageHero.png": "/static/media/MainLandingPageHero.30b380787ef7adb09eb6.png",
     "static/media/AgencyLandingPage.jpeg": "/static/media/AgencyLandingPage.717f8ed6737d6161b153.jpeg",
@@ -103,6 +103,6 @@
   },
   "entrypoints": [
     "static/css/main.20d51e13.css",
-    "static/js/main.06f7a428.js"
+    "static/js/main.eaa0d2ec.js"
   ]
 }
